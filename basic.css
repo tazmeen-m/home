@@ -1,0 +1,14 @@
+body
+{ 
+	text-align : right-align;
+	font-size : 14pt;
+	line-height : 18pt;
+	font-family : "Times New Roman", Arial, serif;
+	
+	color : rgb(0, 155, 200);
+	background-color : rgb(200, 100, 212);
+}
+.Heading
+{
+	color: rgb(200, 200, 200);
+}
